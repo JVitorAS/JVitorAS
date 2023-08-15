@@ -1,9 +1,9 @@
 
-<div align="center" style="background-color="red""><h1>Eu sou erick progamador em javascript e PHP alem disso sei css e html</h1></div><br>               
+<div align="center" style="background-color="red""><h1>N sou erick progamador em javascript e PHP alem disso sei css e html</h1></div><br>               
  <div align="center">
-  <a href="https://github.com/erickgamer56">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericknovaes56&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovaes56&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JVitorAS">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JVitorAS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVitorAS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
