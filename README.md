@@ -13,7 +13,5 @@
 <div align="center"> 
   <a href="https://www.instagram.com/erickgamer56/"><img src="https://img.shields.io/badge/Instagram-OOOO?style=for-the-badge&logo=instagram&logoColor=black"></a> 
 </div><br>
- <div align="center">
-     <img height="400" width="100%" src="https://tenor.com/view/pc-hack-hacker-guy-fawkes-mask-gif-17047235.gif">
-</div>
+
 <div style="display: inline_block" align="center"><h5> ⚠️⚠️🚧Projects under construction🚧⚠️⚠️</h5></div>
